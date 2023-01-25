@@ -31,6 +31,10 @@ li{
 .conteiner-flex .icons{
     color: white;
 }
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
 
 .columns {
     display: flex;
@@ -47,6 +51,7 @@ li{
 .product{
     position: relative;
 }
+
 
 .tag {
     position: absolute;
@@ -75,4 +80,26 @@ li{
     background-color: white;
     font-size: 30px;
     padding: 10px;
+}
+footer{
+    background-color: #1A1A1A;
+}
+
+.footer-flex{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1170px;
+    margin: auto;
+    align-items: center;
+    padding: 20px;
+}
+h3{
+    color: white;
+}
+h4{
+    color:white;
+}
+
+.footer-icons{
+    color: white;
 }
