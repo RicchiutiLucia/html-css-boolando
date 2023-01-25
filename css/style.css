@@ -94,12 +94,13 @@ main {
 }
 .prezzo-scontato{
     color: red;
-    font-size: 13px;
+    font-size: 12px;
+    font-weight: bold;
 }
 .prezzo-originale{
     text-decoration: line-through;
     font-weight: lighter;
-    font-size: 13px;
+    font-size: 12px;
 }
 footer{
     background-color: #1A1A1A;
