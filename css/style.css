@@ -31,9 +31,10 @@ li{
 .conteiner-flex .icons{
     color: white;
 }
-.container {
+main {
     max-width: 1170px;
     margin: auto;
+    padding: 50px;
 }
 
 .columns {
