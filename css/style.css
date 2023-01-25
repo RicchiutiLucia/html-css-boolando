@@ -133,9 +133,13 @@ h4{
     display: none;
 }
 
-.img-principale:hover{
+.product:hover .img-principale{
     display: none;
 }
-.hover-img:hover{
+.product:hover .hover-img{
     display: block;
+}
+
+.heart:hover{
+    color:red
 }
