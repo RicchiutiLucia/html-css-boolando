@@ -125,3 +125,19 @@ h4{
     font-size: 13px;
     padding: 5px;
 }
+
+.img-principale{
+    display: block;
+}
+.hover-img{
+    display: none;
+}
+#cambioimmagine{
+
+}
+#cambioimmagine:hover .img-principale {
+    display: none;
+}
+#cambioimmagine:hover .hover-img {
+    display: block;
+}
