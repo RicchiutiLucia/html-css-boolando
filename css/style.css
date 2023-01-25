@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 header{
     background-color: #FF6900;
@@ -59,7 +62,7 @@ main {
     bottom: 50px;
     left: 0;
     padding: 5px;
-    font-size: 20px;
+    font-size: 10px;
     color:white;
     font-weight: bold;
 }
@@ -68,7 +71,9 @@ main {
 }
 .tag-green {
     background-color:#008000;
-    left: 60px;
+    left: 40px;
+    font-size: 10px;
+    padding: 5px;
 }
 .tag2-green {
     background-color:#008000;
@@ -79,10 +84,13 @@ main {
     right: 0;
     background-color: white;
     font-size: 30px;
-    padding: 10px;
+    padding: 0px 5px;
 }
 .text{
     font-weight: bold;
+}
+.marca{
+    font-size: 13px;
 }
 .prezzo-scontato{
     color: red;
