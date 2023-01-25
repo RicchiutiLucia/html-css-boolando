@@ -65,14 +65,13 @@ main {
 }
 .tag-red {
     background-color: red;
-   
-    
-   
 }
 .tag-green {
     background-color:#008000;
-   
-
+    left: 60px;
+}
+.tag2-green {
+    background-color:#008000;
 }
 .heart{
     position: absolute;
@@ -81,6 +80,9 @@ main {
     background-color: white;
     font-size: 30px;
     padding: 10px;
+}
+.text{
+    font-weight: bold;
 }
 footer{
     background-color: #1A1A1A;
@@ -103,4 +105,8 @@ h4{
 
 .footer-icons{
     color: white;
+}
+.footer-flex li{
+    font-size: 13px;
+    padding: 5px;
 }
