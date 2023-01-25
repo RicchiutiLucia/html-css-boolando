@@ -113,17 +113,19 @@ footer{
 }
 h3{
     color: white;
+    font-weight: bold;
 }
 h4{
     color:white;
+    font-size: 12px;
 }
 
 .footer-icons{
     color: white;
 }
 .footer-flex li{
-    font-size: 13px;
-    padding: 5px;
+    font-size: 12px;
+    padding: 5px 0px 5px 5px;
 }
 
 .img-principale{
