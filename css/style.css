@@ -84,6 +84,13 @@ main {
 .text{
     font-weight: bold;
 }
+.prezzo-scontato{
+    color: red;
+}
+.prezzo-originale{
+    text-decoration: line-through;
+    font-weight: lighter;
+}
 footer{
     background-color: #1A1A1A;
 }
