@@ -31,3 +31,48 @@ li{
 .conteiner-flex .icons{
     color: white;
 }
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col {
+    width: calc(100% / 3);
+    padding: 20px;
+    
+}
+.product img {
+    width: 100%;
+}
+.product{
+    position: relative;
+}
+
+.tag {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    padding: 5px;
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+}
+.tag-red {
+    background-color: red;
+   
+    
+   
+}
+.tag-green {
+    background-color:#008000;
+   
+
+}
+.heart{
+    position: absolute;
+    top: 5px;
+    right: 0;
+    background-color: white;
+    font-size: 30px;
+    padding: 10px;
+}
