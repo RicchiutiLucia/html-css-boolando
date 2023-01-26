@@ -26,11 +26,13 @@ ul a{
     color:white;
     list-style: none;
     display: inline-block;
+    text-decoration: none;
 }
 ul li{
     color:white;
     display: inline-block;
     list-style: none;
+    
 
 }
 
