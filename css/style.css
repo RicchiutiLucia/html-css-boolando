@@ -63,7 +63,9 @@ main {
 .product{
     position: relative;
 }
-
+.icons a{
+    color:white;
+}
 
 .tag {
     position: absolute;
